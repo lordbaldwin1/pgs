@@ -2,7 +2,7 @@
 <suite name="pgs" verbose="1">
   <test name="smoke">
     <classes>
-      <class name="com.pgs.tests.ExampleTest"/>
+      <class name="com.pgs.tests.DynamicTableTest"/>
     </classes>
   </test>
 </suite>

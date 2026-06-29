@@ -70,7 +70,7 @@
         <activeByDefault>true</activeByDefault>
       </activation>
       <properties>
-        <baseUrl>https://example.com</baseUrl>
+        <baseUrl>https://qaplayground.dev</baseUrl>
         <headless>true</headless>
         <browser>chrome</browser>
       </properties>
